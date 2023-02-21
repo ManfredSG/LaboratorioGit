@@ -13,8 +13,8 @@ gato2.edad = 3
 gato2.aniadirlista()
 
 gato3 = funcionesTarea.gato()
-gato3.nombre = "Tanjiro"
-gato3.color = "Rojo"
+gato3.nombre = "Tanjiroo"
+gato3.color = "Red"
 gato3.edad = 5
 gato3.aniadirlista()
 
